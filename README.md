@@ -23,6 +23,6 @@ QA Manual portfolio dengan test plans, test case, dan bug report untuk projek se
 - **Tools Used:** Mention any tools or methods you used.
 
 ## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** [opisopiyah71@gmail.com]
+- **LinkedIn:** [Opi Sopiyah]
+- **GitHub:** [Opi Sopiyah]
