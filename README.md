@@ -24,5 +24,5 @@ QA Manual portfolio dengan test plans, test case, dan bug report untuk projek se
 
 ## Contact
 - **Email:** [opisopiyah71@gmail.com]
-- **LinkedIn:** [Opi Sopiyah]
+- **LinkedIn:** [https://www.linkedin.com/in/opi-sopiyah/
 - **GitHub:** [Opi Sopiyah]
