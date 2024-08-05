@@ -13,9 +13,9 @@ QA Manual portfolio dengan test plans, test case, dan bug report untuk projek se
 ## Projects
 
 ### Project 1: SWAGLAB
-- **Description:** A brief description of the project.
-- **Responsibilities:** Detail your role and what you tested.
-- **Tools Used:** Mention any tools or methods you used.
+- **Description:** Project ini dibuat untuk melatih keterampilan dalam membuat test plan, test case dan bug report.
+- **Responsibilities:** Sebagai QA Manual
+- **Tools Used:** -
 
 ### Project 2: [Project Name]
 - **Description:** A brief description of the project.
